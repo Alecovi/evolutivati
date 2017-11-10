@@ -1,4 +1,4 @@
 <?php
-echo "Meu primeiro código <strong>php!</strong>";
+echo "Minha primeira atualização php";
 ?>
 
